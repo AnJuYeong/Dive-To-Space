@@ -56,7 +56,7 @@ Link ▶ https://good-scabiosa-c2f.notion.site/6a6350c3ed774e63b7edfc5bb89479fe
 
 |이름|담당파트|깃|구현 내용|
 |:---:|:---:|:---:|:---:|
-|안주영| 컨트랙트 |[![깃](https://user-images.githubusercontent.com/92054372/219853674-c8128e76-92bd-4f83-bb1f-8c0fa4188594.png)](https://github.com/AnJuYeong) |컨트랙트 작성|
+|안주영| 컨트랙트 |[![깃](https://user-images.githubusercontent.com/92054372/219853674-c8128e76-92bd-4f83-bb1f-8c0fa4188594.png)](https://github.com/AnJuYeong) | 컨트랙트 작성, , 컨트랙트 연결 |
 |손윤미| 프론트 | [![깃](https://user-images.githubusercontent.com/92054372/219853674-c8128e76-92bd-4f83-bb1f-8c0fa4188594.png)](https://github.com/YounmiSon) | 화면설계서 작성, 반응형 페이지 구현, 백과 axios 통신, 컨트랙트 연결|
 |김종찬| 프론트 | [![깃](https://user-images.githubusercontent.com/92054372/219853674-c8128e76-92bd-4f83-bb1f-8c0fa4188594.png)](https://github.com/JongChan-Kim98) |페이지 UI 구현, 컨트랙트 연결|
 |최하진| 백엔드 |[![깃](https://user-images.githubusercontent.com/92054372/219853674-c8128e76-92bd-4f83-bb1f-8c0fa4188594.png)](https://github.com/pepperflavor) |DB 설계, nest.js를 이용해 백엔드 구현|
